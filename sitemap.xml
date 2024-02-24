@@ -2,41 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://./</loc>
+    <loc>./</loc>
     <lastmod>2023-12-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://./posts/</loc>
+    <loc>./posts/</loc>
     <lastmod>2023-12-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://./tags/</loc>
+    <loc>./tags/</loc>
     <lastmod>2023-12-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://./posts/firstday/</loc>
+    <loc>./posts/firstday/</loc>
     <lastmod>2023-12-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://./tags/%E8%AF%B4%E8%AF%B4/</loc>
+    <loc>./tags/%E8%AF%B4%E8%AF%B4/</loc>
     <lastmod>2023-12-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://./tags/%E6%B5%8B%E8%AF%95/</loc>
+    <loc>./tags/%E6%B5%8B%E8%AF%95/</loc>
     <lastmod>2006-12-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://./posts/test/</loc>
+    <loc>./posts/test/</loc>
     <lastmod>2006-12-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://./archives/</loc>
+    <loc>./archives/</loc>
   </url><url>
-    <loc>https://./categories/</loc>
+    <loc>./categories/</loc>
   </url><url>
-    <loc>https://./tags/links/</loc>
+    <loc>./tags/links/</loc>
   </url><url>
-    <loc>https://./series/</loc>
+    <loc>./series/</loc>
   </url><url>
-    <loc>https://./search/</loc>
+    <loc>./search/</loc>
   </url><url>
-    <loc>https://./tags/%E5%85%B3%E4%BA%8E/</loc>
+    <loc>./tags/%E5%85%B3%E4%BA%8E/</loc>
   </url><url>
-    <loc>https://./about/</loc>
+    <loc>./about/</loc>
   </url><url>
-    <loc>https://./links/</loc>
+    <loc>./links/</loc>
   </url>
 </urlset>

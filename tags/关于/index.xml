@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>关于 on Natsumi&#39;s Blog</title>
-    <link>https://./tags/%E5%85%B3%E4%BA%8E/</link>
+    <link>./tags/%E5%85%B3%E4%BA%8E/</link>
     <description>Recent content in 关于 on Natsumi&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>moe</language><atom:link href="https://./tags/%E5%85%B3%E4%BA%8E/index.xml" rel="self" type="application/rss+xml" />
+    <language>moe</language><atom:link href="./tags/%E5%85%B3%E4%BA%8E/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

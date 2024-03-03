@@ -5,6 +5,7 @@
     <link>/links/</link>
     <description>Recent content in 友链~ on Baka Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>moe</language><atom:link href="/links/index.xml" rel="self" type="application/rss+xml" />
+    <language>moe</language>
+    <atom:link href="/links/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>测试 on Baka Blog</title>
     <link>/tags/%E6%B5%8B%E8%AF%95/</link>
     <description>Recent content in 测试 on Baka Blog</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>moe</language>
     <lastBuildDate>Mon, 04 Dec 2006 00:00:00 +0000</lastBuildDate>
     <atom:link href="/tags/%E6%B5%8B%E8%AF%95/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,7 @@
       <link>/posts/test/</link>
       <pubDate>Mon, 04 Dec 2006 00:00:00 +0000</pubDate>
       <guid>/posts/test/</guid>
-      <description>这是一个介绍</description>
+      <description>&lt;p&gt;114514&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

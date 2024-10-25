@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>说说 on Baka Blog</title>
     <link>/tags/%E8%AF%B4%E8%AF%B4/</link>
     <description>Recent content in 说说 on Baka Blog</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>moe</language>
-    <lastBuildDate>Mon, 04 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Oct 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="/tags/%E8%AF%B4%E8%AF%B4/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>伤心日#1</title>
+      <link>/posts/love-1/</link>
+      <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>/posts/love-1/</guid>
+      <description>&lt;p&gt;好烦。&lt;/p&gt;&#xA;&lt;p&gt;莫名其妙的人(刘子涵 QQ:1214860115)莫名其妙的让我和她分手，然后我气不过只好想找他对线。&lt;/p&gt;&#xA;&lt;p&gt;对线没有开始，因为他压根没有通过，并且质问她为什么“还没有跟我分手”，说是要“绝交”。&lt;/p&gt;</description>
+    </item>
     <item>
       <title>破壳日</title>
       <link>/posts/firstday/</link>
